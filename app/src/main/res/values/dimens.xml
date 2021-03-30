@@ -1,0 +1,10 @@
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="list_header_margin">8dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="attraction_margin_left">20dp</dimen>
+    <dimen name="item_margin_left">8dp</dimen>
+    <dimen name="item_margin_top">6dp</dimen>
+    <dimen name="item_margin">6dp</dimen>
+</resources>

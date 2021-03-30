@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">Explore Brasov</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="hikingsTitlePage">Hikings</string>
+    <string name="attractionsTitlePage">Touristic Attractions</string>
+    <string name="hotelsTitlePage">Hotels</string>
+    <!-- Hiking 1 -->
+    <string name="hikingTitle1">Cheia – Podul Berii – Fântana Nicolae Ioan – Cabana Ciucas</string>
+    <string name="hikingDuration1">8h-9h</string>
+    <string name="difficulty1">Medium</string>
+    <string name="mountains1">Ciucas</string>
+    <string name="seasonalityWholeYear">Whole year</string>
+
+    <!-- Hiking 2 -->
+    <string name="hikingTitle2">Cheia – Șaua Balaban – Cabana Muntele Rosu – Fântâna Nicolae Ioan – Cabana Ciucas</string>
+    <string name="hikingDuration2">9h30m-10h</string>
+
+    <!-- Hiking 3 -->
+    <string name="hikingTitle3">Busteni – Cabana Gura Diham – Cabana Poiana Izvoarelor – Pichetul Rosu – Varful Bucsoi – Cabana Omu</string>
+    <string name="hikingDuration3">15h-16h30m</string>
+    <string name="mountains3">Bucegi</string>
+
+    <!-- Hiking 4 -->
+    <string name="hikingTitle4">Timisul de Jos - Piatra Crinului - Varf Postavarul</string>
+    <string name="hikingDuration4">4h-4h30m</string>
+    <string name="mountains4">Postavarul</string>
+
+    <!-- Hiking 5 -->
+    <string name="hikingTitle5">Valea Putnei – Poiana Strungii – Poiana Sapele – Vârful Giumalău</string>
+    <string name="hikingDuration5">9h-9h30m</string>
+    <string name="mountains5">Giumalau</string>
+    <string name="difficulty5">High</string>
+    <string name="seasonality5"> Only during summer</string>
+
+    <!-- Hiking 6 -->
+    <string name="hikingTitle6">Cabana Izvorul Muntelui – Piatra cu Apa – Detunatele – Cabana Dochia</string>
+    <string name="hikingDuration6">5h30m-6h30m</string>
+    <string name="mountains6">Ceahlau</string>
+
+    <!-- Hiking 7 -->
+    <string name="hikingTitle7">Câmpulung Moldovenesc – valea Limpedea  – saua Ciobanilor – Varful Rarau – Cabana „Rarau”</string>
+    <string name="hikingDuration7">7h-7h30m</string>
+    <string name="mountains7">Rarau</string>
+    <string name="seasonality7">Only during summer</string>
+
+    <!-- Attraction 1 -->
+    <string name="attractionTitle1">Bran Castle (Castelul Bran)</string>
+    <string name="rating1">4.7</string>
+    <string name="link1">https://en.wikipedia.org/wiki/Bran_Castle</string>
+
+    <!-- Attraction 2 -->
+    <string name="attractionTitle2">Black Church (Biserica Neagra)</string>
+    <string name="rating2">4.5</string>
+    <string name="link2">https://en.wikipedia.org/wiki/Biserica_Neagră</string>
+
+    <!-- Attraction 3 -->
+    <string name="attractionTitle3">Poiana Brașov</string>
+    <string name="rating3">5.0</string>
+    <string name="link3">https://en.wikipedia.org/wiki/Poiana_Brașov</string>
+
+    <!-- Attraction 4 -->
+    <string name="attractionTitle4">Rasnov Citadel (Cetatea Rasnov)</string>
+    <string name="rating4">4.4</string>
+    <string name="link4">https://en.wikipedia.org/wiki/Râșnov_Citadel</string>
+
+    <!-- Attraction 5 -->
+    <string name="attractionTitle5">Tâmpa</string>
+    <string name="rating5">4.8</string>
+    <string name="link5">https://en.wikipedia.org/wiki/Tâmpa,_Brașov</string>
+
+    <!-- Attraction 6 -->
+    <string name="attractionTitle6">Council Square (Piata Sfatului)</string>
+    <string name="rating6">4.7</string>
+    <string name="link6">https://en.wikipedia.org/wiki/Piața_Sfatului</string>
+
+    <!-- Attraction 7 -->
+    <string name="attractionTitle7">Seven Ladders Canyon (Canionul Sapte Scari)</string>
+    <string name="rating7">4.8</string>
+    <string name="link7">https://en.wikipedia.org/wiki/Seven_Ladders_Canyon</string>
+    
+    <string name="addressText">Address: </string>
+    <string name="TelephoneText">Telephone: </string>
+
+    <string name="restaurantsTitlePage">Restaurants</string>
+
+    <!-- Restaurant 1 -->
+    <string name="restaurantName1">Sergiana</string>
+    <string name="restaurantAddress1">Strada Mureșenilor 28, Brașov 500030</string>
+    <string name="restaurantPhone1">0268 419 775</string>
+    <string name="restaurantRating1">4.5</string>
+
+    <!-- Restaurant 2 -->
+    <string name="restaurantName2">Sura Dacilor</string>
+    <string name="restaurantAddress2">Strada Valea Lungă, Brașov 500001</string>
+    <string name="restaurantPhone2"> 0268 262 327</string>
+    <string name="restaurantRating2">4.0</string>
+
+    <!-- Restaurant 3 -->
+    <string name="restaurantName3">Restaurant Athanasios</string>
+    <string name="restaurantAddress3">Strada George Barițiu 8, Brașov 500025</string>
+    <string name="restaurantPhone3">0729 000 199</string>
+    <string name="restaurantRating3">4.6</string>
+
+    <!-- Restaurant 4 -->
+    <string name="restaurantName4">Prato Restaurant</string>
+    <string name="restaurantAddress4">Strada Michael Weiss 11, Brașov 500031</string>
+    <string name="restaurantPhone4">0720 444 422</string>
+    <string name="restaurantRating4">4.5</string>
+
+    <!-- Restaurant 5 -->
+    <string name="restaurantName5">Dei Frati</string>
+    <string name="restaurantAddress5">Piața George Enescu, Brașov</string>
+    <string name="restaurantPhone5">0724 216 028</string>
+    <string name="restaurantRating5">4.7</string>
+
+    <!-- Restaurant 6 -->
+    <string name="restaurantName6">Keller Steak House</string>
+    <string name="restaurantAddress6">Strada Apollonia Hirscher 2, Brașov 500025</string>
+    <string name="restaurantPhone6">0268 472 278</string>
+    <string name="restaurantRating6">4.6</string>
+
+    <!-- Restaurant 7 -->
+    <string name="restaurantName7">Cucinino Pasta Bar</string>
+    <string name="restaurantAddress7">Strada Diaconu Coresi 6, Brașov 500025</string>
+    <string name="restaurantPhone7">0722 361 305</string>
+    <string name="restaurantRating7">4.6</string>
+
+    <!-- Restaurant 8 -->
+    <string name="restaurantName8">Bistro de l\'Arte</string>
+    <string name="restaurantAddress8">Piața George Enescu 11Bis, Brașov 500031</string>
+    <string name="restaurantPhone8">0720 535 566</string>
+    <string name="restaurantRating8">4.5</string>
+
+    <!-- Restaurant 9 -->
+    <string name="restaurantName9">Belvedere</string>
+    <string name="restaurantAddress9">Strada Stejerișului 11B, Brașov 500122</string>
+    <string name="restaurantPhone9">0735 404 169</string>
+    <string name="restaurantRating9">4.5</string>
+
+    <!-- Restaurant 10 -->
+    <string name="restaurantName10">Vino e Sapori</string>
+    <string name="restaurantAddress10">Strada George Barițiu 13, Brașov 500025</string>
+    <string name="restaurantPhone10">0368 468 593</string>
+    <string name="restaurantRating10">4.4</string>
+
+    <!-- Hotel 1 -->
+    <string name="hotelName1">Kronwell</string>
+    <string name="hotelAddress1">Bulevardul Gării 7A, Brașov 500203</string>
+    <string name="hotelPhone1">0368 730 800</string>
+    <string name="hotelRating1">4.7</string>
+
+    <!-- Hotel 2 -->
+    <string name="hotelName2">Clementina</string>
+    <string name="hotelAddress2">Strada Constantin Dobrogeanu-Gherea 35, Brașov 500003</string>
+    <string name="hotelPhone2">0722 497 388</string>
+    <string name="hotelRating2">4.3</string>
+
+    <!-- Hotel 3 -->
+    <string name="hotelName3">Hotel Alpin Poiana Brasov</string>
+    <string name="hotelAddress3">Poiana Brasov 500001</string>
+    <string name="hotelPhone3">0268 262 343</string>
+    <string name="hotelRating3">4.3</string>
+
+    <!-- Hotel 4 -->
+    <string name="hotelName4">Residence Ambient</string>
+    <string name="hotelAddress4">Strada Castanilor 3, Brașov 500097</string>
+    <string name="hotelPhone4">0771 796 069</string>
+    <string name="hotelRating4">3.9</string>
+
+    <!-- Hotel 5 -->
+    <string name="hotelName5">Hotel Brasov</string>
+    <string name="hotelAddress5">Strada 13 Decembrie 38, Brașov 500199</string>
+    <string name="hotelPhone5">0268 426 633</string>
+    <string name="hotelRating5">4.2</string>
+
+    <!-- Hotel 6 -->
+    <string name="hotelName6">Coroana Brașovului</string>
+    <string name="hotelAddress6">Strada Doctor Vasile Saftu 1, Brașov 500127</string>
+    <string name="hotelPhone6">0268 513 866</string>
+    <string name="hotelRating6">4.4</string>
+
+    <!-- Hotel 7 -->
+    <string name="hotelName7">CETATE RESIDENCE</string>
+    <string name="hotelAddress7">Strada Lupeni 3, Brașov 500085</string>
+    <string name="hotelPhone7">0726 362 020</string>
+    <string name="hotelRating7">4.8</string>
+
+    <!-- Hotel 8 -->
+    <string name="hotelName8">Hotel Royal</string>
+    <string name="hotelAddress8">Strada Poiana Doamnei 4, Brașov 500001</string>
+    <string name="hotelPhone8">0731 909 663</string>
+    <string name="hotelRating8">4.3</string>
+
+    <!-- Hotel 9 -->
+    <string name="hotelName9">Hotel Regal</string>
+    <string name="hotelAddress9">Strada Plevnei 13, Brașov 500187</string>
+    <string name="hotelPhone9">0731 333 608</string>
+    <string name="hotelRating9">4.5</string>
+
+    <!-- Hotel 10 -->
+    <string name="hotelName10">Bella Muzica</string>
+    <string name="hotelAddress10">Piața Sfatului 19, Brașov 500026</string>
+    <string name="hotelPhone10">0268 477 956</string>
+    <string name="hotelRating10">4.6</string>
+
+</resources>
